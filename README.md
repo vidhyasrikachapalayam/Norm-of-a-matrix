@@ -59,18 +59,21 @@ print(Norm_of_matrix)
 
 ## Output:
 ### 1-Norm of a Matrix
+![norm1](https://user-images.githubusercontent.com/119477817/215282612-ea0728c1-66c2-4bbd-a173-32c689ca0560.png)
 
-![norm1.png](./norm1.png)
+
 
 ### 2-Norm of a Matrix
 
-![norm2.png](./norm2.png)
+![norm2](https://user-images.githubusercontent.com/119477817/215282625-f01418e1-f313-4a84-b1fd-46004f0fa0d4.png)
+
 
 
 
 ### Infinity Norm of a Matrix
 
-![norm3.png](norm3.png)
+![norm3](https://user-images.githubusercontent.com/119477817/215282646-d720c90e-dd85-4196-aa9e-b48e847b3cfd.png)
+
 
 
 ## Result
